@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 06/05/2019, 19:52:42
-    Author     : thiag
+    Author     : Marcos
 --%>
 
 <%@page import="br.com.fatecpg.jdbc.Customer"%>

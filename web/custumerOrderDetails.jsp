@@ -1,7 +1,7 @@
 <%-- 
     Document   : custumerOrderDetails
     Created on : 08/05/2019, 13:37:19
-    Author     : vsreis
+    Author     : Marcos
 --%>
 <%@page import="br.com.fatecpg.jdbc.PurchaseOrder"%>
 <%@page import="java.util.ArrayList"%>

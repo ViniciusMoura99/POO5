@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author fernando.santos
+ * @author Marcos
  */
 public class Product {
     private int id;

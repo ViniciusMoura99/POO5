@@ -1,7 +1,7 @@
 <%-- 
     Document   : fabricantes
     Created on : 07/05/2019, 20:47:58
-    Author     : fernando.santos
+    Author     : Marcos
 --%>
 
 <%@page import="br.com.fatecpg.jdbc.Manufacturer"%>

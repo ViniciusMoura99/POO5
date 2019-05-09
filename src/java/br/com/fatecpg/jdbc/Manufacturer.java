@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author fernando.santos
+ * @author Marcos
  */
 public class Manufacturer {
     private int id;

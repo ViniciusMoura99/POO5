@@ -1,7 +1,7 @@
 <%-- 
     Document   : indexFornecedor
     Created on : 07/05/2019, 15:55:26
-    Author     : thiag
+    Author     : Marcos
 --%>
 
 <%@page import="br.com.fatecpg.jdbc.Fabricantes"%>

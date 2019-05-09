@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author thiag
+ * @author Marcos
  */
 public class Customer {
 

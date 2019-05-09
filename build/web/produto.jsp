@@ -1,7 +1,7 @@
 <%-- 
     Document   : details
     Created on : 07/05/2019, 08:38:03
-    Author     : fernando.santos
+    Author     : Marcos
 --%>
 
 <%@page import="br.com.fatecpg.jdbc.Product"%>

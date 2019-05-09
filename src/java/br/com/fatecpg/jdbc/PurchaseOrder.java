@@ -14,7 +14,7 @@ import java.util.Date;
 
 /**
  *
- * @author vsreis
+ * @author Marcos
  */
 public class PurchaseOrder {
     
